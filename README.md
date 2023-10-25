@@ -5,3 +5,6 @@ ejercicios prácticos con el fin de aprender diversos comandos de la terminal
 de Linux.
 
 Nuevo cambio.
+
+#en el espacio 
+
